@@ -1,63 +1,63 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
-  - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
+  - `Object` e
+  - `Function` e
+  - `Boolean` e
+  - `Number` e
+  - `BigInt` e
+  - `String` e
+  - `Symbol` u
+  - `Infinity` h
+  - `NaN` e
+  - `undefined` e
+  - `null` e
+  - `this` e
+  - `instanceof` e
+  - `...spread` u
+  - `...rest` u
+  - `typeof` u
+  - Destructuring u
+  - Generators h
+  - Iterators h
+  - Async generator h
+  - Async iterator h
+  - Chaining e
+  - Optional chaining h
+  - IIFE e
+  - Async IIFE h
+  - `global` e
+  - `globalThis` e
+  - `window` e
+  - Getters and setters u
+  - `__proto__` h
+  - `prototype` e
+  - Equality operators e
+  - Logical operators e
+  - Logical Assignment e
+  - Bitwise operators h
+  - Ternary operator e
+  - `void` h
+  - `yield` h
+  - `await` e
+  - Template literal u
+  - Strict mode u
+  - Hoisting e
+  - `delete` e
+  - `in` u
+  - `super` u
+  - `eval` u
+  - `static` e
+  - `Number.parseInt` u
+  - `Number.parseFloat` u
+  - Property descriptors u
+  - Sealing properties h
+  - Freezing properties h
+  - Computed properties h
+  - Instance class fields u
+  - Static class fields u
   - Private class fields
-  - Private class methods
+  - Private class methods h
 - Statements
   - `if`
   - `while`
