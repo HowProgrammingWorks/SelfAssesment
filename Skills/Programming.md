@@ -39,7 +39,7 @@
   - Scalar
   - Literal
   - Expression
-  - Heap
+  - Heap: k
   - Function
   - Procedure
   - Method
