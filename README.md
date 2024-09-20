@@ -43,7 +43,7 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 
 ## Example
 
-It should look like following example after filling it out. And will be automatically formatted as sown in right column:
+It should look like following example after filling it out. And will be automatically formatted as shown in right column:
 
 ```
 - Syntax                       - Syntax
