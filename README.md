@@ -22,8 +22,8 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 - Create branch, for example: `2024-winter`
 - In new branch add following levels or leave line untouched in each file:
 
-|      | Level         | Shorthand  | Description                                            |
-| ---- | ------------- | ----------:| ------------------------------------------------------ |
+|      | Level         |  Shorthand | Description                                            |
+| ---- | ------------- | ---------: | ------------------------------------------------------ |
 | `👂` | `heard`       | `~` or `h` | Heard or have some idea                                |
 | `🎓` | `known`       | `+` or `k` | Learned, read, but didn’t use                          |
 | `🖐️` | `used`        | `*` or `u` | Used in work or real project                           |

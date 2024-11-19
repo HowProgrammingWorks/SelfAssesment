@@ -1,26 +1,26 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` \*
+  - `Function`\*
+  - `Boolean`\*
+  - `Number`\*
   - `BigInt`
-  - `String`
+  - `String`\*
   - `Symbol`
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `NaN`\*
+  - `undefined`\*
+  - `null`\*
+  - `this` \*
   - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `...spread` \*
+  - `...rest` \*
+  - `typeof` \*
   - Destructuring
   - Generators
   - Iterators
-  - Async generator
+  - Async generator\*
   - Async iterator
   - Chaining
   - Optional chaining
@@ -28,10 +28,10 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
+  - `window`\*
   - Getters and setters
-  - `__proto__`
-  - `prototype`
+  - `__proto__`+
+  - `prototype`+
   - Equality operators
   - Logical operators
   - Logical Assignment
