@@ -1,73 +1,73 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Model u
+  - Modeling u
+  - Subject domain u
+  - Algorithm u
+  - Syntax u
+  - Semantics u
+  - Abstraction u
+  - Paradigm u
+  - Programm u
+  - Programming paradigm u
+  - Programming language u
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Module u
+  - Library u
+  - Package u
+  - Component u
+  - Framework u
+  - Platform u
+  - Source code u
+  - Object code u
+  - Machine code u
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering u
+  - Decomposition u
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse u
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) u
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
+  - Heap u
+  - Function u
+  - Procedure u
+  - Method u
+  - Class u
+  - Prototype u
+  - Event u
+  - Type u
+  - Flag u
+  - Lexical scope u
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression u
+  - Interface u
+  - Namespaces u
+  - Call stack u
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
   - Kebab case
-  - Trailing commas
+  - Trailing commas u
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types u
+  - Reference types u
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,92 +81,92 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
+  - Side effects u
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion u
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
+  - Callback u
+  - Listener u
+  - Composition u
   - Pipe
-  - Memoize
-  - Wrapper
+  - Memoize u
+  - Wrapper u
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - Array u
+  - Structure u
+  - Record k
+  - Enum k
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table u
+  - Linked list h
+  - Doubly list h
+  - Unrolled list h
+  - Circular list h
+  - Queue u
+  - Stack u
+  - Deque h
+  - Tree h
+  - Graph h
+  - Iterator u
+  - Mutable state k
+  - Immutable state k
+  - Serialization h
+  - String parsing h
+  - JSON u
+  - JSON5 h
+  - YAML h
 - Networking
   - DNS
   - CDN
   - CORS
-  - IPv4
+  - IPv4 k
   - IPv6
   - NAT
-  - URL
+  - URL u
   - URN
-  - URI
+  - URI u
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Compiler u
+  - Just-in-time compilation u 
+  - Ahead-of-time compilation u
+  - Transpiler k
+  - Linter k
   - Polyfill
-  - Interpreter
+  - Interpreter u
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime u
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Refactoring u
+  - Code review u
+  - Exception u
+  - Unittesting k
+  - git u
+  - Github u
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux k
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -229,7 +229,7 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA
+  - ECMA u
   - ICANN
   - ISO
   - MIME
