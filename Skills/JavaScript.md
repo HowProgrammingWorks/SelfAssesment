@@ -1,25 +1,25 @@
 ## JavaScript
 
-- Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+e Language
+  e `Object`
+  e `Function`
+  e `Boolean`
+  e `Number`
+  e `BigInt`
+  e `String`
+  e `Symbol`
+  k `Infinity`
+  k `NaN`
+  k `undefined`
+  k `null`
+  h `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  u `typeof`
   - Destructuring
   - Generators
-  - Iterators
+  h Iterators
   - Async generator
   - Async iterator
   - Chaining
@@ -28,7 +28,7 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
+  k `window`
   - Getters and setters
   - `__proto__`
   - `prototype`
@@ -58,39 +58,39 @@
   - Static class fields
   - Private class fields
   - Private class methods
-- Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+u Statements
+  u `if`
+  u `while`
+  u `do..while`
+  u `for`
+  u `for..in`
+  u `for..of`
+  u `for await`
+  u `throw`
+  u `break`
+  u `continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  k `switch`
+  k `class`
   - `extends`
   - `with`
   - `new`
-- Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
+u Functions
+  u Arrow function
+  u Async function
+  u Function declaration
+  u Function expression
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
-- Data structures
-  - `Array`
+k Data structures
+  k `Array`
   - `Map`
   - `Set`
   - `WeakMap`
@@ -98,25 +98,25 @@
   - Typed arrays
   - Mixins
   - `Object.assign`
-- Standard classes and namespaces
+~ Standard classes and namespaces
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  u `Math`
   - `Reflect`
-  - `Error`
+  ~ `Error`
   - `Atomics`
-  - `JSON`
+  ~ `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  u `console`
   - Timers
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  ~ npm
   - prettier
   - MDN
   - TC39
