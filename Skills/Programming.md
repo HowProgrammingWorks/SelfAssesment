@@ -1,67 +1,67 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model ~
+  - Modeling ~
   - Subject domain
-  - Algorithm
+  - Algorithm k
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
+  - Paradigm ~
+  - Programm e
+  - Programming paradigm ~
+  - Programming language ~
+  - Contract ~
   - Module
-  - Library
-  - Package
+  - Library ~
+  - Package ~
   - Component
-  - Framework
-  - Platform
-  - Source code
+  - Framework~
+  - Platform ~
+  - Source code k
   - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
+  - Machine code k
+  - Microcode ~
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) e
+  - KISS principle e
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
   - Method
-  - Class
+  - Class u
   - Prototype
-  - Event
+  - Event u
   - Type
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
-  - Assignment
+  - Loops ~
+  - Assignment k
   - Regular expression
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case u
+  - Kebab case u
   - Trailing commas
   - Return early
   - Fail-fast
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature u
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
+  - Object u
   - Collection
   - Set
   - Hash table
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON ~
   - JSON5
   - YAML
 - Networking
@@ -164,16 +164,16 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers ~
+  - Hard code ~
+  - Soft code ~
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -181,9 +181,9 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code ~
+  - Unreachable code ~
+  - Duplicate code k
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -209,20 +209,20 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers u
+  - Kernel ~
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Virtual memory u
+  - File system u
+  - Linux u
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII ~
   - Escape sequence
   - RFC
   - IETF
