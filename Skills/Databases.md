@@ -1,27 +1,27 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
-  - In-memory databases
+  - Data types h
+  - Performance tuning 
+  - Migrations h
+  - Schema versioning 
+  - Backup and recovery h
+  - Database scalability h
+  - Relational databases h
+  - Key-value store h
+  - Tuple store h
+  - Graph databases h
+  - Object databases h
+  - Column databases h
+  - Navigational databases h
+  - Hierarchical databases h
+  - In-memory databases h
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL)
-- Relational
+- Relational 
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
@@ -31,7 +31,7 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
+  - Big data h
+  - Data analysis h
+  - AI tools u
   - Cloud databases
   - Data Visualization

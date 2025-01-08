@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
+  - Model k
+  - Modeling k
+  - Subject domain k
+  - Algorithm k
+  - Syntax k
+  - Semantics h
+  - Abstraction h
+  - Paradigm 
+  - Programm k
+  - Programming paradigm 
+  - Programming language k
+  - Contract h
+  - Module h
+  - Library h
+  - Package h
+  - Component h
+  - Framework h
+  - Platform h
+  - Source code h
+  - Object code h
+  - Machine code h
+  - Microcode h
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
@@ -40,18 +40,18 @@
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function h
   - Procedure
-  - Method
-  - Class
+  - Method h
+  - Class h
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type h
+  - Flag h
   - Lexical scope
-  - Code block
+  - Code block h
   - Conditions
-  - Loops
+  - Loops h
   - Assignment
   - Regular expression
   - Interface
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
@@ -149,24 +149,24 @@
   - Linter
   - Polyfill
   - Interpreter
-  - Linker
+  - Linker h
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine k
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Refactoring k
+  - Code review h
+  - Exception h
+  - Unittesting h
+  - git u
+  - Github u
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
@@ -212,15 +212,15 @@
   - Drivers
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - Virtual memory h
+  - File system k
+  - Linux k
+  - Unix h
+  - BSD h
+  - MacOS k
+  - Windows u
+  - Real-time OS h
+  - Embedded OS h
 - Standards
   - ASCII
   - Escape sequence
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG

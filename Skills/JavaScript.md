@@ -1,27 +1,27 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol` u
+  - `Infinity` u
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` 
+  - `instanceof` 
+  - `...spread` h
+  - `...rest` h
+  - `typeof` u
   - Destructuring
   - Generators
   - Iterators
   - Async generator
-  - Async iterator
+  - Async iterator h
   - Chaining
   - Optional chaining
   - IIFE
@@ -31,7 +31,7 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
+  - `prototype` h
   - Equality operators
   - Logical operators
   - Logical Assignment
@@ -59,25 +59,25 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
-  - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` k
+  - `for..of` k
+  - `for await` k
+  - `throw` k
+  - `break` k
+  - `continue` k
+  - `import` k
+  - `export` k
+  - `label` k
+  - `try..catch` h
+  - `switch` k
+  - `class` k
+  - `extends` 
+  - `with` h
+  - `new` h
 - Functions
   - Arrow function
   - Async function
@@ -99,14 +99,14 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy` h
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` h
   - `Reflect`
-  - `Error`
+  - `Error` h
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js h
+  - npm u
   - prettier
   - MDN
   - TC39
