@@ -1,11 +1,11 @@
 ## Architecture
 
 - Application structure
-  - Modularity
+  - Modularity~
   - Components
   - Directories
   - GRASP
-  - SOLID
+  - SOLID~
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -14,11 +14,11 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage~
   - Cohesion
-  - Coupling
+  - Coupling~
   - Cyclomatic complexity
-  - Reliability
+  - Reliability~
   - Quality
   - Availability
   - Flexibility

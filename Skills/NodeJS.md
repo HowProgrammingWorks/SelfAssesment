@@ -5,7 +5,7 @@
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
-  - Event loop microtasks and macrotasks
+  - Event loop microtasks and macrotasks~
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
@@ -13,21 +13,21 @@
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - Module `node:module`
+  - Module `node:module`~
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Contexts and scripts module `node:vm`~
+  - Dependencies: npm, `node_modules`~
+  - Files package.json, `package-lock.json`~
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach~
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI~
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -49,16 +49,16 @@
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:worker_threads`~
+  - Module node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module node:url vs `new URL`~
+  - Module `node:assert`&
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
-  - Module `node:zlib`
+  - Blob, File, Buffer, module node:buffer
+  - Module node:zlib
 - Network
   - Endpoint throttling
   - ALPN
@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S)&
   - TCP/SSL
   - UDP
   - TLS
@@ -96,10 +96,10 @@
   - CI/CD
   - Readable
   - Writable
-  - Transform
+  - Transform~
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer~
+  - Console~
   - Inspector
 - Data access
   - Data access layer
@@ -110,12 +110,12 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `Error`+
+  - error.cause
+  - `error.code`+
+  - `error.message`+
+  - error.stack
+  - Error.captureStackTrace
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
@@ -126,18 +126,18 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
-  - `Zig` addons
+  - C and C++ addons~
+  - Rust addons
+  - Zig addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI `C` and `C++`
-  - NAPI `Rust`
-  - NAPI `Zig`
-  - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
-  - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
+  - NAPI C and C++
+  - NAPI Rust
+  - NAPI Zig
+  - Webassembly WAT
+  - Webassembly C and C++
+  - Webassembly Rust
+  - Webassembly Zig
+  - Webassembly AssemblyScript
   - Shared memory
   - V8 binary serialization

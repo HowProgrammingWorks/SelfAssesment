@@ -5,10 +5,10 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Functional programming~
+  - Prototype-based programming~
+  - Object-oriented programming~
+  - Object-based programming~
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
@@ -28,30 +28,30 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Operator `new`*
+  - Static method+
+  - Method*
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters~
+  - Public fields*
+  - Private fields*
   - Field declarations
   - Inheritance
   - Parent class
   - Polymorphism
-  - Abstract class
+  - Abstract class~
   - Interface
   - Encapsulation
-  - Hidden class
-  - Object form
+  - Hidden class~
+  - Object form~
   - Instance
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
   - Information expert
-  - Creator
-  - Controller
+  - Creator~
+  - Controller~
   - Indirection
   - Low coupling
   - High cohesion
@@ -63,22 +63,22 @@
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
-- Patterns
+- Patterns~
   - Singleton
   - Factory Method
   - Abstract Factory
-  - Adapter
+  - Adapter~
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy~
   - Chain of Responsibility
-  - Command
+  - Command~
   - Iterator
-  - State
+  - State~
   - Bridge
   - Builder
-  - Prototype
+  - Prototype~
   - Composite
   - Decorator
   - Flyweight
