@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` k
+  - `Function` k
+  - `Boolean` k
+  - `Number` k
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `String` k
+  - `Symbol` k
+  - `Infinity`k
+  - `NaN`k
+  - `undefined`k
+  - `null`k
+  - `this`k
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`k
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators k
   - Async generator
   - Async iterator
   - Chaining
@@ -31,10 +31,10 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
+  - `prototype` 
+  - Equality operators k
+  - Logical operators k
+  - Logical Assignment k
   - Bitwise operators
   - Ternary operator
   - `void`
@@ -43,8 +43,8 @@
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
-  - `in`
+  - `delete` k
+  - `in` k
   - `super`
   - `eval`
   - `static`
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` k
+  - `while` k
+  - `do..while` k
+  - `for` k
+  - `for..in` k
+  - `for..of` 
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `throw` k
+  - `break` k
+  - `continue` 
+  - `import` k
+  - `export` k
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` k
+  - `class` k
   - `extends`
-  - `with`
-  - `new`
+  - `with` k
+  - `new` k
 - Functions
-  - Arrow function
+  - Arrow function k
   - Async function
   - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+  - Function expression k
+  - Default parameters k
+  - Functional object k
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` k
   - `Map`
   - `Set`
   - `WeakMap`
@@ -104,19 +104,19 @@
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error`
+  - `Error` k
   - `Atomics`
-  - `JSON`
+  - `JSON` k
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` k
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js k
+  - npm k
+  - prettier k
   - MDN
   - TC39
