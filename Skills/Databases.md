@@ -1,94 +1,94 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
+  - Data types *
+  - Performance tuning ~
+  - Migrations *
+  - Schema versioning *
+  - Backup and recovery *
+  - Database scalability ~
+  - Relational databases *
+  - Key-value store *
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
-  - In-memory databases
-  - Inverted index
+  - Graph databases ~
+  - Object databases ~
+  - Column databases *
+  - Navigational databases ~
+  - Hierarchical databases ~
+  - In-memory databases *
+  - Inverted index ~
   - Data control language (DCL)
-  - Data definition language (DDL)
+  - Data definition language (DDL) *
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram *
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
+  - Indexing *
+  - Primary keys *
+  - Foreign keys *
+  - Transactions *
   - Views
-  - Subqueries
-  - Stored procedures
-  - SQL functions
+  - Subqueries ~
+  - Stored procedures ~
+  - SQL functions *
   - Materialized views
-  - Replications
-  - Virtualization
+  - Replications ~
+  - Virtualization *
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
-  - `GRANT`
-  - `REVOKE`
-  - `DENY`
-  - `EXPLAIN`
+  - SELECT *
+  - INSERT *
+  - UPDATE *
+  - DELETE *
+  - LIMIT *
+  - OFFSET *
+  - ORDER BY *
+  - GROUP BY *
+  - HAVING *
+  - EXISTS *
+  - JOIN *
+  - INNER JOIN *
+  - LEFT JOIN *
+  - RIGHT JOIN *
+  - UNION *
+  - DISTINCT *
+  - WHERE *
+  - LIKE *
+  - IN *
+  - BETWEEN *
+  - CREATE TABLE *
+  - ALTER TABLE *
+  - DROP TABLE *
+  - PRIMARY KEY *
+  - FOREIGN KEY *
+  - CHECK *
+  - DEFAULT *
+  - INDEX *
+  - UNIQUE *
+  - GRANT
+  - REVOKE
+  - DENY
+  - EXPLAIN
 - Engines
-  - PostgreSQL
+  - PostgreSQL  ~*
   - Oracle
-  - MySQL
-  - MariaDB
+  - MySQL *
+  - MariaDB ~
   - MS SQL Server
-  - Redis
+  - Redis *
   - Rabbit
-  - MongoDB
-  - Memcached
+  - MongoDB ~
+  - Memcached ~
   - Riak
   - DB2
-  - SQLite
-  - DynamoDB
-  - Firebase
+  - SQLite ~
+  - DynamoDB ~
+  - Firebase ~
 - Data engineering
-  - Data warehousing
-  - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Data warehousing ~
+  - Business intelligence ~
+  - Big data ~
+  - Data analysis ~
+  - AI tools ~
+  - Cloud databases ~
+  - Data Visualization *
