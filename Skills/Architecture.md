@@ -1,19 +1,19 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity ~
+  - Components *
+  - Directories *
+  - GRASP ~
+  - SOLID !
+  - GoF patterns ~
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Multiparadigm code ~
+  - Contract programming ~
+  - Platform-agnostic ~
+  - Transport-agnostic ~
+  - Framework-agnostic ~
   - Code coverage
   - Cohesion
   - Coupling
@@ -24,19 +24,19 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer !
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Inversion of control (IoC) *
+  - Dependency injection (DI) *
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
-  - Message brocker
+  - Message brocker ~
   - Agent
   - Service locator
   - Message Queue (MQ)
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds ~
   - BPMN
   - Low-code
   - No-code

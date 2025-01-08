@@ -1,8 +1,8 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
+  - Strengths and weaknesses of .NET ~
+  - Stateful and stateless services ~
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
   - Garbage collection in .NET
@@ -19,7 +19,7 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools 
   - .NET CLI
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
@@ -106,23 +106,23 @@
   - C++ syntax and language fundamentals
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
-  - `C++/CLI` syntax and usage
-  - Accessing .NET Framework classes in `C++`
+  - `C++/CLI` syntax and usage ~
+  - Accessing .NET Framework classes in `C++` ~
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
   - Developing custom .NET libraries in `C++`
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
   - Working with Windows API
-  - Migration of legacy `C++` code to .NET
+  - Migration of legacy `C++` code to .NET 
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity ~
 - Web development
   - ASP.NET Core
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development ~

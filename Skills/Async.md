@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`
+  - try..catch
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,24 +22,24 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks ~
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
+  - Promise ~
+  - Async/await ~
+  - Future ~
+  - Deferred ~
+  - Sync generator ~
+  - Async Generator ~
   - Async Iterator
-  - Event
+  - Event *
   - Coroutine
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility
+  - Chain of responsibility ~
   - Middleware
-  - Locks
+  - Locks ~
 - Async adapters and utils
   - callbackify
   - promisify
@@ -48,20 +48,20 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer !
   - Readable
   - Writable
   - Transform
-  - Async Pool
+  - Async Pool !
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore !
+  - Mutex !
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
-  - `setImmediate`
-  - `nextTick`
+  - setImmediate
+  - nextTick
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
