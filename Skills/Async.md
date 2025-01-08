@@ -1,12 +1,12 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop&
+  - try..catch
   - Non-blocking
   - Async I/O
   - Thread pool
-  - Pattern Reactor
+  - Pattern Reactor+
   - CAS operations
   - epoll
   - kqueue
@@ -19,27 +19,27 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread~
+  - Process&
 - Async contracts
   - Callbacks
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Async/await~
+  - Future~
+  - Deferred~
+  - Sync generator&
+  - Async Generator&
+  - Async Iterator&
+  - Event~
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal~
   - Stream
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks~
 - Async adapters and utils
   - callbackify
   - promisify
@@ -51,7 +51,7 @@
   - Observable/Observer
   - Readable
   - Writable
-  - Transform
+  - Transform~
   - Async Pool
   - Async Queue
   - Async Collector
@@ -59,31 +59,31 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers~
+  - setImmediate
+  - nextTick
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell~
   - Promise hell
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON streaming serialization
+  - JSON streaming serialization~
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all~
   - Promise.allSettled
   - Promise.race
-  - Promise.any
-  - Web Locks API
-  - IPC
-  - Channel API
+  - Promise.any~
+  - Web Locks API~
+  - IPC~
+  - Channel API~
   - Revealing constructor

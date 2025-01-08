@@ -1,58 +1,58 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model~
+  - Modeling~
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm~
+  - Syntax~
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
+  - Abstraction~
+  - Paradigm~
+  - Programm~
   - Programming paradigm
   - Programming language
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module&
+  - Library&
+  - Package&
   - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
+  - Framework~
+  - Platform~
+  - Source code~
+  - Object code~
+  - Machine code~
+  - Microcode~
   - Software engineering
   - Decomposition
-  - Control flow
+  - Control flow&
   - Data flow
-  - Code reuse
+  - Code reuse&
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value&
   - Identifier
   - Variable
   - Constant
   - Scalar
   - Literal
   - Expression
-  - Heap
-  - Function
+  - Heap&
+  - Function+
   - Procedure
-  - Method
+  - Method~
   - Class
-  - Prototype
-  - Event
-  - Type
+  - Prototype~
+  - Event&
+  - Type~
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
-  - Assignment
+  - Loops~
+  - Assignment~
   - Regular expression
   - Interface
   - Namespaces
@@ -80,41 +80,41 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
+- Functions&
   - Signature
-  - Argument
+  - Argument~
   - Parameter
   - Pure function
-  - Lambda expression
-  - Side effects
+  - Lambda expression~
+  - Side effects+
   - Closure
   - Partial application
   - Currying
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback~
   - Listener
   - Composition
   - Pipe
-  - Memoize
+  - Memoize&
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator~
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array*
+  - Structure&
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object~
+  - Collection~
+  - Set~
   - Hash table
-  - Linked list
+  - Linked list*
   - Doubly list
   - Unrolled list
   - Circular list
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON*
   - JSON5
   - YAML
-- Networking
+- Networking&
   - DNS
   - CDN
   - CORS
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL*
   - URN
   - URI
 - Process and tools
@@ -146,10 +146,10 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter~
   - Polyfill
   - Interpreter
-  - Linker
+  - Linker*
   - Dynamic linking
   - Static linking
   - Runtime
@@ -157,43 +157,43 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger*
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring+
+  - Code review+
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git*
+  - Github*
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
-  - Soft code
+  - Hard code~
+  - Soft code~
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti~
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code~
+  - Unreachable code~
+  - Duplicate code~
   - Premature optimization
-  - Micro-optimization
+  - Micro-optimization~
   - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Long method/function/procedure~
+  - Long inheritance~
+  - Large class/file~
+  - Too many parameters~
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case~
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -211,14 +211,14 @@
   - Interrupts
   - Drivers
   - Kernel
-  - Ring
+  - Ring~
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system~
+  - Linux&
+  - Unix&
   - BSD
-  - MacOS
-  - Windows
+  - MacOS+
+  - Windows+
   - Real-time OS
   - Embedded OS
 - Standards
@@ -232,8 +232,8 @@
   - ECMA
   - ICANN
   - ISO
-  - MIME
+  - MIME~
   - OWASP
-  - UTF-8
+  - UTF-8+
   - W3C
   - ODMG
