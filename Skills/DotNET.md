@@ -50,7 +50,7 @@
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies~
   - Performance profiling and analysis
 - Data Access and ORM
   - Entity Framework Core~
@@ -76,8 +76,8 @@
   - Microservices architecture
   - Containerization with Docker
   - Kubernetes for orchestration
-  - Serverless computing
-- C# Development
+  - Serverless computing~
+- C# Development~
   - C# syntax and language fundamentals
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
@@ -116,13 +116,13 @@
   - Working with Windows API
   - Migration of legacy C++ code to .NET
   - - Enhancing existing .NET applications with `C++/CLI`
-- Mobile development
+- Mobile development&
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
   - Unity~
 - Web development
   - ASP.NET Core
-  - Blazor
+  - Blazor&
   - Razor Syntax
   - RESTful API development

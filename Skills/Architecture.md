@@ -2,7 +2,7 @@
 
 - Application structure
   - Modularity~
-  - Components
+  - Components~
   - Directories
   - GRASP
   - SOLID~
@@ -11,9 +11,9 @@
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Platform-agnostic~
+  - Transport-agnostic~
+  - Framework-agnostic~
   - Code coverage~
   - Cohesion
   - Coupling~
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope~
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
@@ -95,6 +95,6 @@
   - Business Intelligence
   - OLAP
   - OLTP
-  - Conways Law
+  - Conways Law~
   - Quality assurance
-  - Engineering Hygiene
+  - Engineering Hygiene~

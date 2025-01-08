@@ -3,12 +3,12 @@
 - Theory and concepts
   - Data types~
   - Performance tuning
-  - Migrations
+  - Migrations~
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store~
   - Tuple store
   - Graph databases
   - Object databases
@@ -17,10 +17,10 @@
   - Hierarchical databases
   - In-memory databases
   - Inverted index~
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data control language (DCL)~
+  - Data definition language (DDL)~
+  - Data manipulation language (DML)~
+  - Data query language (DQL)~
 - Relational
   - Entity-Relationship Diagram
   - Normal forms~
@@ -36,17 +36,17 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - INSERT
+  - `SELECT`+
+  - `INSERT`+
   - `UPDATE`~
-  - `DELETE`
+  - `DELETE`+
   - `LIMIT`~
-  - OFFSET
+  - `OFFSET`~
   - `ORDER BY`~
   - `GROUP BY`~
   - `HAVING`~
   - `EXISTS`
-  - `JOIN`
+  - `JOIN`+
   - INNER JOIN
   - LEFT JOIN
   - RIGHT JOIN
@@ -63,7 +63,7 @@
   - FOREIGN KEY
   - CHECK
   - `DEFAULT`~
-  - `INDEX`
+  - `INDEX`+
   - `UNIQUE`~
   - GRANT
   - REVOKE
@@ -78,7 +78,7 @@
   - Redis
   - Rabbit~
   - MongoDB
-  - Memcached
+  - Memcached~
   - Riak
   - DB2
   - SQLite
@@ -91,4 +91,4 @@
   - Data analysis~
   - AI tools~
   - Cloud databases
-  - Data Visualization
+  - Data Visualization~

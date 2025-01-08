@@ -8,7 +8,7 @@
   - Syntax~
   - Semantics
   - Abstraction~
-  - Paradigm
+  - Paradigm~
   - Programm~
   - Programming paradigm
   - Programming language
@@ -19,15 +19,15 @@
   - Component
   - Framework~
   - Platform~
-  - Source code
-  - Object code
+  - Source code~
+  - Object code~
   - Machine code~
   - Microcode~
   - Software engineering
   - Decomposition
-  - Control flow
+  - Control flow&
   - Data flow
-  - Code reuse
+  - Code reuse&
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
@@ -39,13 +39,13 @@
   - Scalar
   - Literal
   - Expression
-  - Heap
-  - Function
+  - Heap&
+  - Function+
   - Procedure
   - Method~
   - Class
   - Prototype~
-  - Event
+  - Event&
   - Type~
   - Flag
   - Lexical scope
@@ -80,13 +80,13 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
+- Functions&
   - Signature
   - Argument~
   - Parameter
   - Pure function
   - Lambda expression~
-  - Side effects
+  - Side effects+
   - Closure
   - Partial application
   - Currying
@@ -97,7 +97,7 @@
   - Listener
   - Composition
   - Pipe
-  - Memoize
+  - Memoize&
   - Wrapper
   - Functor
   - Monad
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti~
   - Silver bullet
   - Not invented here
   - Dead code~
@@ -188,7 +188,7 @@
   - Micro-optimization~
   - Nested loops
   - Long method/function/procedure~
-  - Long inheritance
+  - Long inheritance~
   - Large class/file~
   - Too many parameters~
   - Pass-through parameters
@@ -211,7 +211,7 @@
   - Interrupts
   - Drivers
   - Kernel
-  - Ring
+  - Ring~
   - Virtual memory
   - File system~
   - Linux&
@@ -232,7 +232,7 @@
   - ECMA
   - ICANN
   - ISO
-  - MIME
+  - MIME~
   - OWASP
   - UTF-8+
   - W3C

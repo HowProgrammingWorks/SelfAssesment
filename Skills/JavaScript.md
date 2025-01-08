@@ -78,7 +78,7 @@
   - `extends`*
   - `with`*
   - `new`*
-- Functions
+- Functions+
   - Arrow function
   - Async function
   - Function declaration~
@@ -97,26 +97,26 @@
   - `WeakSet`
   - Typed arrays
   - Mixins
-  - Object.assign
+  - Object.assign~
 - Standard classes and namespaces
   - Proxy
   - RegExp
   - `Date`~
   - `Math`&
-  - Reflect
+  - `Reflect`~
   - `Error`+
-  - Atomics
+  - Atomics~
   - `JSON`+
   - WeakRef
   - FinalizationRegistry
-  - Intl
+  - Into~
   - Promise
   - `console`+
   - Timers
 - Infrastructure
   - V8
   - Node.js&
-  - npm
+  - npm+
   - prettier
   - MDN
   - TC39

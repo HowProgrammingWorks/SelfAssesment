@@ -1,15 +1,15 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Procedural programming~
+  - Imperative programming~
+  - Structured programming~
+  - Non-structured programming~
   - Functional programming~
   - Prototype-based programming~
   - Object-oriented programming~
   - Object-based programming~
-  - Generic programming
+  - Generic programming~
   - Concurrent computing
   - Asynchronous programming
   - Parallel programming
@@ -18,8 +18,8 @@
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Metaprogramming~
+  - Actor model~
   - Lambda calculus
   - Black box
   - Information hiding
@@ -27,7 +27,7 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
+  - Constructor~
   - Operator `new`*
   - Static method+
   - Method*
@@ -54,7 +54,7 @@
   - Controller~
   - Indirection
   - Low coupling
-  - High cohesion
+  - High cohesion~
   - Protected variations
   - Pure fabrication
 - SOLID

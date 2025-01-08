@@ -6,7 +6,7 @@
   - Non-blocking
   - Async I/O
   - Thread pool
-  - Pattern Reactor
+  - Pattern Reactor+
   - CAS operations
   - epoll
   - kqueue
@@ -29,9 +29,9 @@
   - Async/await~
   - Future~
   - Deferred~
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator&
+  - Async Generator&
+  - Async Iterator&
   - Event~
   - Coroutine
   - Goroutine
@@ -68,7 +68,7 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell~
   - Promise hell
   - ref() and unref()
   - Error handling in async code
@@ -83,7 +83,7 @@
   - Promise.allSettled
   - Promise.race
   - Promise.any~
-  - Web Locks API
-  - IPC
-  - Channel API
+  - Web Locks API~
+  - IPC~
+  - Channel API~
   - Revealing constructor

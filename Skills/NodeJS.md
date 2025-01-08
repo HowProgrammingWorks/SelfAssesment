@@ -94,8 +94,8 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable~
+  - Writable~
   - Transform~
   - Back pressure
   - Buffer~
@@ -107,11 +107,11 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD~
   - DTO
 - Error handling and debugging
   - `Error`+
-  - error.cause
+  - error.cause~
   - `error.code`+
   - `error.message`+
   - error.stack
