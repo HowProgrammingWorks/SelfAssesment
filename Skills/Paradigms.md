@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
-- Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+- Theory h
+  - Procedural programming h
+  - Imperative programming h 
+  - Structured programming h
+  - Non-structured programming 
+  - Functional programming h
+  - Prototype-based programming 
+  - Object-oriented programming h
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming 
   - Parallel programming
-  - Reactive programming
+  - Reactive programming h
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming h
   - Metaprogramming
   - Actor model
   - Lambda calculus

@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u 
+  - `Number` u
+  - `BigInt` h
+  - `String` u
+  - `Symbol` u
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` u
+  - `null` k
+  - `this` 
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` u
   - Destructuring
   - Generators
   - Iterators
@@ -33,10 +33,10 @@
   - `__proto__`
   - `prototype`
   - Equality operators
-  - Logical operators
+  - Logical operators k
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
+  - Ternary operator u
   - `void`
   - `yield`
   - `await`
@@ -48,8 +48,8 @@
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `Number.parseInt` 
+  - `Number.parseFloat` 
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` k
+  - `for..of` u 
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw` k
+  - `break` h
+  - `continue` h
   - `import`
   - `export`
   - `label`
@@ -79,20 +79,20 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
+  - Arrow function u
+  - Async function 
+  - Function declaration h
   - Function expression
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
-- Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `return` u
+- Data structures h
+  - `Array` k
+  - `Map` k 
+  - `Set` k 
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -104,19 +104,19 @@
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error`
+  - `Error` h
   - `Atomics`
-  - `JSON`
+  - `JSON` h
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
   - `console`
-  - Timers
+  - Timers h
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
+  - V8 h
+  - Node.js h
+  - npm h
   - prettier
-  - MDN
+  - MDN u
   - TC39

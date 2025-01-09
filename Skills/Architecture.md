@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
+  - Modularity h
   - Components
-  - Directories
+  - Directories 
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code h
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -25,7 +25,7 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) 
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
@@ -61,7 +61,7 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
+  - A software requirements specification (SRS) h
   - Solution visions
   - Solution capabilities
   - System design
