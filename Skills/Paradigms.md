@@ -28,10 +28,10 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
+  - Operator `new` 👂	heard
   - Static method
   - Method
-  - Async method
+  - Async method 👂	heard
   - Getters, Setters
   - Public fields
   - Private fields

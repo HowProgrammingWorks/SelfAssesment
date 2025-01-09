@@ -102,7 +102,7 @@
   - XML and file handling
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
-- C++/CLI Development Development
+- C++/CLI Development Development 👂	heard
   - C++ syntax and language fundamentals
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments

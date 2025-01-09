@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types 👂	heard
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -63,7 +63,7 @@
   - `FOREIGN KEY`
   - `CHECK`
   - `DEFAULT`
-  - `INDEX`
+  - `INDEX` 🎓	known
   - `UNIQUE`
   - `GRANT`
   - `REVOKE`
