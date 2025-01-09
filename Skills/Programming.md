@@ -4,51 +4,51 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm k
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm h
+  - Programm h
+  - Programming paradigm h
+  - Programming language u
   - Contract
-  - Module
-  - Library
+  - Module k
+  - Library k
   - Package
   - Component
   - Framework
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse k
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
-- Syntax and concepts
-  - Value
+- Syntax and concepts k
+  - Value h
   - Identifier
-  - Variable
-  - Constant
+  - Variable u
+  - Constant u
   - Scalar
-  - Literal
-  - Expression
+  - Literal u
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
+  - Method h
   - Class
   - Prototype
   - Event
   - Type
   - Flag
-  - Lexical scope
+  - Lexical scope k
   - Code block
   - Conditions
   - Loops
@@ -59,8 +59,8 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case u
+  - Snake case u
   - Kebab case
   - Trailing commas
   - Return early
@@ -80,20 +80,20 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
-  - Signature
-  - Argument
-  - Parameter
+- Functions u
+  - Signature u
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure h
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion h
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
@@ -104,15 +104,15 @@
   - Monoid
   - Generator
   - Coroutine
-- Data structures
-  - Array
+- Data structures k
+  - Array u
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object u
+  - Collection h
+  - Set k
   - Hash table
   - Linked list
   - Doubly list
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -153,22 +153,22 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
+  - Refactoring u
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
-  - GCC
+  - GCC u
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -201,9 +201,9 @@
   - Feature envy
   - Monkey patch
   - Yo-yo problem
-- Runtimes and virtual machines
+- Runtimes and virtual machines h
   - Bytecode
-  - V8
+  - V8 h
   - VJM
   - CLR
   - Mono
@@ -214,15 +214,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux h
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows h
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG
