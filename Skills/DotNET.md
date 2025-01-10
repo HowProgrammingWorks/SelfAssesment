@@ -5,7 +5,7 @@
   - Stateful and stateless services
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
-  - Garbage collection in .NET
+  - Garbage collection in .NET h
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
+  - C# syntax and language fundamentals u
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - Data types and collections u
+  - Generics and extension methods u
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals u
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -113,7 +113,7 @@
   - Developing custom .NET libraries in `C++`
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
-  - Working with Windows API
+  - Working with Windows API k
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
