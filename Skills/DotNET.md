@@ -29,7 +29,7 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ h
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - C# syntax and language fundamentals u
+  - Advanced C# features (LINQ, async/await, delegates, events) h
+  - Reflection and dynamic programming h
+  - Data types and collections u
+  - Generics and extension methods u
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity h
 - Web development
   - ASP.NET Core
   - Blazor
