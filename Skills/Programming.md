@@ -1,72 +1,72 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model h
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Algorithm k
+  - Syntax u
+  - Semantics h
+  - Abstraction h
+  - Paradigm h
+  - Programm u
+  - Programming paradigm h
+  - Programming language u
   - Contract
-  - Module
-  - Library
+  - Module h
+  - Library k
   - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
+  - Component h
+  - Framework h
+  - Platform h
+  - Source code u
+  - Object code h 
+  - Machine code h
+  - Microcode h
+  - Software engineering k
+  - Decomposition k
   - Control flow
   - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Code reuse k
+  - Defensive programming k
+  - Don't repeat yourself (DRY) k
+  - KISS principle u
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar h
+  - Literal u
+  - Expression k
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method k
+  - Class k
   - Prototype
-  - Event
-  - Type
-  - Flag
+  - Event h
+  - Type k
+  - Flag k
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
+  - Code block u 
+  - Conditions k
+  - Loops k
   - Assignment
   - Regular expression
-  - Interface
+  - Interface k
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Naming conventions e
+  - Coding conventions e
+  - Camel case u
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types h
   - Reference types
   - Type systems
   - Strong typing
@@ -81,11 +81,11 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function h
+  - Lambda expression k
   - Side effects
   - Closure
   - Partial application
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array k
+  - Structure h
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
+  - Object k
+  - Collection 
   - Set
-  - Hash table
-  - Linked list
+  - Hash table h 
+  - Linked list h
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
   - Stack
   - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Tree h
+  - Graph h
+  - Iterator h
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON h
   - JSON5
   - YAML
 - Networking
@@ -138,11 +138,11 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL k
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,40 +152,40 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
+  - Runtime h
   - Virtual machine
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review u
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Hard code k
+  - Soft code k
+  - Cryptic code k
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti k
+  - Silver bullet k
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code k
+  - Unreachable code k
+  - Duplicate code k
   - Premature optimization
-  - Micro-optimization
+  - Micro-optimization h
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
@@ -209,26 +209,26 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers k
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux k
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 h
   - ECMA
   - ICANN
   - ISO

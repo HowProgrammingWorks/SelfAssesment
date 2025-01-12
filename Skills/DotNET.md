@@ -78,10 +78,10 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
+  - C# syntax and language fundamentals h
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
-  - Data types and collections
+  - Data types and collections h
   - Generics and extension methods
   - Attributes and annotations
   - Interoperability with other .NET languages
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals k
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -113,7 +113,7 @@
   - Developing custom .NET libraries in `C++`
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
-  - Working with Windows API
+  - Working with Windows API h
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development

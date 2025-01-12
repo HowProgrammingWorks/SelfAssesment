@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity h
+  - Components h
+  - Directories u
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code h
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,13 +18,13 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability u
+  - Quality u
+  - Availability u
+  - Flexibility u
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer h
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
@@ -53,9 +53,9 @@
   - Load balancing
   - Gateways
   - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - IaaS h
+  - PaaS h
+  - SaaS h
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds k
   - BPMN
   - Low-code
   - No-code
