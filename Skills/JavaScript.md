@@ -1,14 +1,14 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` ~
+  - `Function` +
+  - `Boolean` +
+  - `Number` +
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
+  - `String` +
+  - `Symbol` +
+  - `Infinity` +
   - `NaN`
   - `undefined`
   - `null`
@@ -16,10 +16,10 @@
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` ~
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators ~
   - Async generator
   - Async iterator
   - Chaining
@@ -28,16 +28,16 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
+  - `window` ~
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Equality operators *
+  - Logical operators *
+  - Logical Assignment *
+  - Bitwise operators ~
+  - Ternary operator ~
+  - `void` +
   - `yield`
   - `await`
   - Template literal
@@ -50,7 +50,7 @@
   - `static`
   - `Number.parseInt`
   - `Number.parseFloat`
-  - Property descriptors
+  - Property descriptors ~
   - Sealing properties
   - Freezing properties
   - Computed properties
@@ -59,10 +59,10 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` *
+  - `while`*
+  - `do..while` ~
+  - `for` ~
   - `for..in`
   - `for..of`
   - `for await`
@@ -81,16 +81,16 @@
 - Functions
   - Arrow function
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration *
+  - Function expression +
+  - Default parameters +
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` +
   - `Map`
   - `Set`
   - `WeakMap`
@@ -99,19 +99,19 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy` ~
   - `RegExp`
   - `Date`
   - `Math`
   - `Reflect`
-  - `Error`
+  - `Error` +
   - `Atomics`
-  - `JSON`
+  - `JSON` +
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` !
   - Timers
 - Infrastructure
   - V8
