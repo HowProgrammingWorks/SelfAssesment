@@ -1,64 +1,64 @@
 ## JavaScript
 
-- Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+- Language *
+  - `Object`  *
+  - `Function`  *
+  - `Boolean`  *
+  - `Number`  *
+  - `BigInt`  *
+  - `String`  *
+  - `Symbol` *
+  - `Infinity` *
+  - `NaN` *
+  - `undefined` *
+  - `null` *
+  - `this` *
+  - `instanceof` *
+  - `...spread`м
+  - `...rest` *
+  - `typeof` *
   - Destructuring
   - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  - Iterators *
+  - Async generator *
+  - Async iterator *
+  - Chaining *
+  - Optional chaining *
   - IIFE
-  - Async IIFE
+  - Async IIFE *
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters
+  - Getters and setters *
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators *
+  - Logical operators *
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
+  - Ternary operator *
   - `void`
   - `yield`
   - `await`
   - Template literal
   - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
+  - Hoisting *
+  - `delete` *
+  - `in` *
+  - `super` *
+  - `eval`  *
+  - `static`  *
   - `Number.parseInt`
   - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
-- Statements
+  - Instance class fields *
+  - Static class fields *
+  - Private class fields *
+  - Private class methods *
+- Statements *
   - `if`
   - `while`
   - `do..while`
@@ -79,17 +79,17 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
+  - Arrow function *
+  - Async function *
+  - Function declaration *
+  - Function expression *
   - Default parameters
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return`
-- Data structures
+  - Functional object *
+  - `Function.prototype.call` *
+  - `Function.prototype.bind` *
+  - `Function.prototype.apply` *
+  - `return` *
+- Data structures *
   - `Array`
   - `Map`
   - `Set`
@@ -101,20 +101,20 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` *
+  - `Math` *
   - `Reflect`
-  - `Error`
+  - `Error` *
   - `Atomics`
   - `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` *
   - `console`
-  - Timers
+  - Timers *
 - Infrastructure
-  - V8
+  - V8 *
   - Node.js
   - npm
   - prettier

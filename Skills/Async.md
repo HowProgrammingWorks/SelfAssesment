@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop *
+  - `try..catch` *
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks *
   - Callback-last-error-first
   - Thenable
   - Promise
@@ -59,17 +59,17 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers *
   - `setImmediate`
-  - `nextTick`
+  - `nextTick` *
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell *
+  - Promise hell *
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all *
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any *
   - Web Locks API
   - IPC
   - Channel API

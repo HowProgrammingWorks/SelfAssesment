@@ -4,34 +4,34 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm *
+  - Syntax *
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm *
+  - Programm *
+  - Programming paradigm *
+  - Programming language *
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
+  - Library *
+  - Package *
+  - Component *
+  - Framework *
+  - Platform *
+  - Source code *
+  - Object code *
+  - Machine code *
+  - Microcode *
+  - Software engineering *
+  - Decomposition *
   - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
+  - Data flow *
+  - Code reuse *
+  - Defensive programming *
   - Don't repeat yourself (DRY)
   - KISS principle
-- Syntax and concepts
+- Syntax and concepts *
   - Value
   - Identifier
   - Variable
@@ -66,9 +66,9 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
+  - Primitive types *
+  - Reference types *
+  - Type systems *
   - Strong typing
   - Weak typing
   - Duck typing
@@ -81,45 +81,45 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Signature *
+  - Argument *
+  - Parameter *
+  - Pure function *
   - Lambda expression
   - Side effects
-  - Closure
-  - Partial application
+  - Closure *
+  - Partial application *
   - Currying
-  - Higher order
+  - Higher order *
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback *
   - Listener
-  - Composition
+  - Composition *
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper *
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array *
+  - Structure *
   - Record
   - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Instance *
+  - Object *
+  - Collection *
+  - Set *
+  - Hash table *
+  - Linked list *
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
-  - Stack
+  - Stack *
   - Deque
   - Tree
   - Graph
@@ -127,9 +127,9 @@
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
-  - JSON5
+  - String parsing *
+  - JSON *
+  - JSON5 *
   - YAML
 - Networking
   - DNS
@@ -153,7 +153,7 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine *
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git *
+  - Github *
   - Docker
   - Kubernetes
   - GCC
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 *
   - VJM
   - CLR
   - Mono
@@ -218,7 +218,7 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
