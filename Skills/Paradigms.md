@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  h Procedural programming
+  h Imperative programming
+  h Structured programming
+  h Non-structured programming
+  h Functional programming
+  h Prototype-based programming
+  k Object-oriented programming
+  h Object-based programming
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
@@ -27,23 +27,23 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  u Constructor
+  u Operator `new`
+  u Static method
+  u Method
+  u Async method
+  u Getters, Setters
+  u Public fields
+  u Private fields
+  u Field declarations
+  u Inheritance
+  u Parent class
+  u Polymorphism
+  u Abstract class
+  u Interface
+  u Encapsulation
   - Hidden class
-  - Object form
+  k Object form
   - Instance
   - Introspection
   - Reflection
@@ -58,17 +58,17 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  u Single-responsibility principle (SRP)
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  k Singleton
   - Factory Method
   - Abstract Factory
   - Adapter
-  - Observer
+  k Observer
   - Strategy
   - Facade
   - Proxy
@@ -77,7 +77,7 @@
   - Iterator
   - State
   - Bridge
-  - Builder
+  u Builder
   - Prototype
   - Composite
   - Decorator
