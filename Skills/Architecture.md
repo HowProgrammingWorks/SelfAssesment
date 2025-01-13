@@ -1,6 +1,7 @@
 ## Architecture
 
 - Application structure
+  - Reliability
   - Modularity
   - Flexibility
 - Application architecture

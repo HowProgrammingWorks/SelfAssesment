@@ -31,6 +31,5 @@
 - Engines
   - PostgreSQL
   - MySQL
-  - Redis
   - MongoDB
 - Data engineering

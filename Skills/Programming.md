@@ -84,7 +84,6 @@
   - Exception
   - git
   - Github
-  - Docker
 - Antipatterns
   - Magic numbers
   - Hard code
