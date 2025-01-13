@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming h
   - Imperative programming
-  - Structured programming
+  - Structured programming h
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming h 
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -28,9 +28,9 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
+  - Operator `new` h
   - Static method
-  - Method
+  - Method h
   - Async method
   - Getters, Setters
   - Public fields
@@ -47,7 +47,7 @@
   - Instance
   - Introspection
   - Reflection
-  - The diamond problem
+  - The diamond problem h
 - GRASP
   - Information expert
   - Creator
