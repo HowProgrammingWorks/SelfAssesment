@@ -175,7 +175,7 @@
   - Hard code k
   - Soft code k
   - Cryptic code k
-  - Improbability factor
+  - Improbability factor k
   - Accidental complexity
   - Action at a distance
   - Spaghetti k
