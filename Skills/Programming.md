@@ -171,7 +171,7 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers k
   - Hard code k
   - Soft code k
   - Cryptic code k
