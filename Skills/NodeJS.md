@@ -4,21 +4,21 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Event loop phases: h
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: k
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules: u
+  - ECMAScript modules: h
+  - Module `node:module`: h
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Contexts and scripts module `node:vm`: h
+  - Dependencies: `npm`, `node_modules`: u
+  - Files `package.json`, `package-lock.json`: u
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: h
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S): h
   - TCP/SSL
   - UDP
   - TLS
@@ -99,11 +99,11 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console: u
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository: u
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -116,12 +116,12 @@
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
+  - How to avoid mixins: h
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: h
   - Flame graph
-  - Memory leaks
+  - Memory leaks: k
   - Resource leaks
   - Data race
 - Integrations and bindings
