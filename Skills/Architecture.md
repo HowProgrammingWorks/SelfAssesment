@@ -1,14 +1,14 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns: h
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID: h
   - CQS
   - Modularity
   - Subsystems
