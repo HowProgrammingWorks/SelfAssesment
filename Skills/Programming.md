@@ -1,2 +1,96 @@
 ## Programming fundamental concepts
 
+- Concepts
+  - Model
+  - Algorithm
+  - Syntax
+  - Abstraction
+  - Paradigm
+  - Programm
+  - Contract
+  - Module
+  - Library
+  - Package
+  - Component
+  - Framework
+  - Source code
+  - Machine code
+  - Software engineering
+  - Decomposition
+  - Don't repeat yourself (DRY)
+  - KISS principle
+- Syntax and concepts
+  - Value
+  - Identifier
+  - Variable
+  - Constant
+  - Scalar
+  - Expression
+  - Heap
+  - Function
+  - Procedure
+  - Method
+  - Class
+  - Prototype
+  - Event
+  - Type
+  - Flag
+  - Code block
+  - Conditions
+  - Loops
+  - Interface
+  - Call stack
+  - Naming conventions
+  - Camel case
+  - Snake case
+- Types
+  - Primitive types
+  - Reference types
+  - Static typing
+  - Dynamic typing
+- Functions
+  - Signature
+  - Argument
+  - Parameter
+  - Lambda expression
+  - Recursion
+  - Callback
+  - Listener
+  - Generator
+- Data structures
+  - Array
+  - Enum
+  - Instance
+  - Object
+  - Collection
+  - Set
+  - Hash table
+  - Linked list
+  - Queue
+  - Stack
+  - Graph
+  - Iterator
+  - Mutable state
+  - Immutable state
+  - Serialization
+  - String parsing
+  - JSON
+- Networking
+  - URL
+- Process and tools
+  - Debugger
+  - Garbage collection
+  - Refactoring
+  - Exception
+  - git
+  - Github
+- Antipatterns
+  - Magic numbers
+  - Hard code
+- Runtimes and virtual machines
+- Operating systems
+  - Windows
+- Standards
+  - Base64
+  - UTF-8
+ 
