@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object`u
+  - `Function`u
+  - `Boolean`u
+  - `Number`u
   - `BigInt`
   - `String`
-  - `Symbol`
-  - `Infinity`
+  - `Symbol`u
+  - `Infinity`h
   - `NaN`
-  - `undefined`
-  - `null`
+  - `undefined`h
+  - `null`h
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`u
   - Destructuring
   - Generators
   - Iterators
@@ -40,8 +40,8 @@
   - `void`
   - `yield`
   - `await`
-  - Template literal
-  - Strict mode
+  - Template literal h
+  - Strict mode u
   - Hoisting
   - `delete`
   - `in`
@@ -59,16 +59,16 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if`u
+  - `while`u
+  - `do..while`u
+  - `for`u
+  - `for..in`h
+  - `for..of`u
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break`h
+  - `continue`h
   - `import`
   - `export`
   - `label`
@@ -79,20 +79,20 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
-  - Function declaration
-  - Function expression
+  - Function declaration h
+  - Function expression h
   - Default parameters
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` u 
+  - `Map` h
+  - `Set` h
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -101,8 +101,8 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` 
+  - `Math` 
   - `Reflect`
   - `Error`
   - `Atomics`
@@ -111,11 +111,11 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` u
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js u 
   - npm
   - prettier
   - MDN
