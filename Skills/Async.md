@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop u
+  - `try..catch` u
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,12 +19,12 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread k
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks u
   - Callback-last-error-first
-  - Thenable
+  - Thenable k
   - Promise
   - Async/await
   - Future
@@ -32,11 +32,11 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event u
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream h
   - Chain of responsibility
   - Middleware
   - Locks
@@ -85,5 +85,5 @@
   - Promise.any
   - Web Locks API
   - IPC
-  - Channel API
+  - Channel API k
   - Revealing constructor
