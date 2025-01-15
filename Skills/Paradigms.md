@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming: h
+  - Imperative programming: u
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: k
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: k
   - Object-based programming
-  - Generic programming
+  - Generic programming: h
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming: k
+  - Parallel programming: h
+  - Reactive programming: h
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: k
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
+  - Constructor: u
+  - Operator `new`: u
+  - Static method: u
+  - Method: u
+  - Async method: k
+  - Getters, Setters: u
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class
+  - Parent class: h
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface: h
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
+  - Instance: h
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,27 +58,27 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP): h
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton
-  - Factory Method
+  - Factory Method: h
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
+  - Chain of Responsibility: h
+  - Command: h
+  - Iterator: h
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: u
   - Composite
   - Decorator
   - Flyweight
