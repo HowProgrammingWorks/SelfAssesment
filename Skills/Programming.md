@@ -11,7 +11,7 @@
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language 👂	heard
   - Contract
   - Module
   - Library
@@ -32,21 +32,21 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value 🖐️	used
   - Identifier
-  - Variable
+  - Variable 👂	heard
   - Constant
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function 🖐️	used
   - Procedure
   - Method
-  - Class
+  - Class 🖐️	used
   - Prototype
   - Event
-  - Type
+  - Type 👂	heard
   - Flag
   - Lexical scope
   - Code block
@@ -56,7 +56,7 @@
   - Regular expression
   - Interface
   - Namespaces
-  - Call stack
+  - Call stack 👂	heard
   - Naming conventions
   - Coding conventions
   - Camel case
@@ -80,7 +80,7 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
+- Functions 👂	heard
   - Signature
   - Argument
   - Parameter
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback 👂	heard
   - Listener
   - Composition
   - Pipe
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON 🎓	known
   - JSON5
   - YAML
 - Networking
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL 🖐️	used
   - URN
   - URI
 - Process and tools
@@ -165,7 +165,7 @@
   - Exception
   - Unittesting
   - git
-  - Github
+  - Github 🖐️	used
   - Docker
   - Kubernetes
   - GCC
@@ -217,7 +217,7 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
+  - MacOS 🖐️	used
   - Windows
   - Real-time OS
   - Embedded OS
