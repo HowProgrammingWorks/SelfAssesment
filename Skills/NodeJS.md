@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer

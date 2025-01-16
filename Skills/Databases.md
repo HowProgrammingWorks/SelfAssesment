@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning

@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm: 🎓 known
   - Programming paradigm
   - Programming language
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Library: 🖐️ used
+  - Package: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering: 🎓 known
   - Decomposition
   - Control flow
   - Data flow
@@ -32,36 +32,36 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 🎓 known
+  - Class: 🖐️ used
+  - Prototype: 👂 heard
+  - Event: 🖐️ used
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
-  - Namespaces
+  - Namespaces: 🖐️ used
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
   - Trailing commas
   - Return early
   - Fail-fast
@@ -105,25 +105,25 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array: 🖐️ used
+  - Structure: 👂 heard
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🎓 known
+  - Linked list: 🎓 known
+  - Doubly list: 🎓 known
+  - Unrolled list: 👂 heard
+  - Circular list: 👂 heard
   - Queue
   - Stack
   - Deque
-  - Tree
+  - Tree: 👂 heard
   - Graph
-  - Iterator
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -142,11 +142,11 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter: 👂 heard
   - Polyfill
   - Interpreter
   - Linker
@@ -157,18 +157,18 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
   - Kubernetes
-  - GCC
+  - GCC: 🖐️ used
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -210,15 +210,15 @@
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel
+  - Kernel: 🎓 known
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 🎓 known
+  - Unix: 🎓 known
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🎓 known
+  - Windows: 🎓 known
   - Real-time OS
   - Embedded OS
 - Standards
