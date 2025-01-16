@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `Object` e
+  - `Function` e
+  - `Boolean` e
+  - `Number` e
+  - `BigInt` e
+  - `String` e
+  - `Symbol` e
+  - `Infinity` k
+  - `NaN` k
+  - `undefined` k
+  - `null` k
+  - `this` h
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`u
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators h
   - Async generator
   - Async iterator
   - Chaining
@@ -28,7 +28,7 @@
   - Async IIFE
   - `global`
   - `globalThis`
-  - `window`
+  - `window` k
   - Getters and setters
   - `__proto__`
   - `prototype`
@@ -59,30 +59,30 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` u
+  - `for await` u
+  - `throw` u
+  - `break` u
+  - `continue` u
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` k
+  - `class` k
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
+  - Arrow function u
+  - Async function u
+  - Function declaration u
+  - Function expression u
   - Default parameters
   - Functional object
   - `Function.prototype.call`
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array` k
   - `Map`
   - `Set`
   - `WeakMap`
@@ -102,21 +102,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` u
   - `Reflect`
-  - `Error`
+  - `Error` ~
   - `Atomics`
-  - `JSON`
+  - `JSON` ~
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` u
   - Timers
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm ~
   - prettier
   - MDN
   - TC39
