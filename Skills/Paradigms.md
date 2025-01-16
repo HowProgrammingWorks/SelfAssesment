@@ -7,11 +7,11 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming u
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -30,8 +30,8 @@
   - Constructor
   - Operator `new`
   - Static method
-  - Method
-  - Async method
+  - Method h
+  - Async method h
   - Getters, Setters
   - Public fields
   - Private fields

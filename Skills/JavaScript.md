@@ -1,23 +1,23 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
   - `BigInt`
   - `String`
   - `Symbol`
   - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` u
   - `instanceof`
   - `...spread`
-  - `...rest`
-  - `typeof`
-  - Destructuring
+  - `...rest`u
+  - `typeof`u
+  - Destructuring u
   - Generators
   - Iterators
   - Async generator
@@ -36,7 +36,7 @@
   - Logical operators
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
+  - Ternary operator u
   - `void`
   - `yield`
   - `await`
@@ -59,27 +59,27 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if`u
+  - `while` u
+  - `do..while`u
+  - `for` u
   - `for..in`
-  - `for..of`
+  - `for..of` u
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw` u
+  - `break` u
+  - `continue` u
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
-  - `class`
+  - `switch` u
+  - `class` k
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function u
   - Async function
   - Function declaration
   - Function expression
@@ -88,11 +88,11 @@
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` u
+  - `Map` u
+  - `Set` u
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -102,16 +102,16 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` u
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` k
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` u
   - Timers
 - Infrastructure
   - V8
