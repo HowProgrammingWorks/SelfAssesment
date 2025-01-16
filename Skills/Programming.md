@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm k
   - Programming paradigm
   - Programming language
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Library u
+  - Package u
+  - Component u
+  - Framework h
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
@@ -32,36 +32,36 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Function u
+  - Procedure h
+  - Method k
+  - Class u
+  - Prototype h
+  - Event u
+  - Type u
+  - Flag u
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
   - Interface
-  - Namespaces
+  - Namespaces u
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case u
+  - Snake case u
+  - Kebab case u
   - Trailing commas
   - Return early
   - Fail-fast
@@ -105,25 +105,25 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure h
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table k
+  - Linked list k
+  - Doubly list k
+  - Unrolled list h
+  - Circular list h
   - Queue
   - Stack
   - Deque
-  - Tree
+  - Tree h
   - Graph
-  - Iterator
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
@@ -142,11 +142,11 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter h
   - Polyfill
   - Interpreter
   - Linker
@@ -157,18 +157,18 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review u
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git u
+  - Github u
+  - Docker h
   - Kubernetes
-  - GCC
+  - GCC u
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -210,15 +210,15 @@
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel
+  - Kernel k
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux k
+  - Unix k
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows k
   - Real-time OS
   - Embedded OS
 - Standards
