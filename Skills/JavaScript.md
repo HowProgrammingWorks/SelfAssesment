@@ -57,7 +57,7 @@
   - Instance class fields
   - Static class fields
   - Private class fields
-  - Private class methods: hh
+  - Private class methods: h
 - Statements
   - `if`: e
   - `while`: e
