@@ -14,16 +14,16 @@
   - `null` *
   - `this` *
   - `instanceof` +
-  - `...spread` 
-  - `...rest`
+  - `...spread` +
+  - `...rest` +
   - `typeof` *
   - Destructuring *
   - Generators ~
   - Iterators *
   - Async generator
-  - Async iterator ~
+  - Async iterator +
   - Chaining *
-  - Optional chaining ~
+  - Optional chaining *
   - IIFE
   - Async IIFE
   - `global`
@@ -44,18 +44,18 @@
   - Strict mode *
   - Hoisting +
   - `delete` +
-  - `in` ~
+  - `in` +
   - `super`
   - `eval`
   - `static` ~
-  - `Number.parseInt` +
+  - `Number.parseInt` *
   - `Number.parseFloat` +
   - Property descriptors *
   - Sealing properties
-  - Freezing properties
+  - Freezing properties +
   - Computed properties
-  - Instance class fields
-  - Static class fields
+  - Instance class fields ~
+  - Static class fields ~
   - Private class fields *
   - Private class methods *
 - Statements
@@ -80,13 +80,13 @@
   - `new` +
 - Functions
   - Arrow function !
-  - Async function ~
+  - Async function +
   - Function declaration !
   - Function expression !
   - Default parameters +
   - Functional object *
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
+  - `Function.prototype.call` ~
+  - `Function.prototype.bind` +
   - `Function.prototype.apply`
   - `return` !
 - Data structures
@@ -101,7 +101,7 @@
 - Standard classes and namespaces
   - `Proxy` ~
   - `RegExp`
-  - `Date`
+  - `Date` ~
   - `Math` *
   - `Reflect`
   - `Error` *
