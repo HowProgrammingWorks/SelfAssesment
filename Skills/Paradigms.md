@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming ~
-  - Imperative programming ~
-  - Structured programming ~
+  - Procedural programming 
+  - Imperative programming 
+  - Structured programming 
   - Non-structured programming
-  - Functional programming *
-  - Prototype-based programming ~
-  - Object-oriented programming ~
+  - Functional programming 
+  - Prototype-based programming 
+  - Object-oriented programming 
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming *
+  - Asynchronous programming 
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -28,16 +28,16 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new` +
+  - Operator `new` 
   - Static method
   - Method
-  - Async method +
+  - Async method 
   - Getters, Setters
-  - Public fields +
-  - Private fields +
+  - Public fields 
+  - Private fields 
   - Field declarations
   - Inheritance
-  - Parent class +
+  - Parent class 
   - Polymorphism
   - Abstract class
   - Interface
@@ -58,7 +58,7 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) +
+  - Single-responsibility principle (SRP) 
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
@@ -71,10 +71,10 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy *
+  - Proxy ~
   - Chain of Responsibility
   - Command
-  - Iterator *
+  - Iterator 
   - State
   - Bridge
   - Builder
@@ -86,6 +86,6 @@
   - Memento
   - Template Method
   - Visitor
-  - Reactor *
+  - Reactor 
   - Active object
   - Delegation

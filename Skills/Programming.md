@@ -4,67 +4,67 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm +
-  - Syntax +
-  - Semantics +
+  - Algorithm 
+  - Syntax 
+  - Semantics 
   - Abstraction
-  - Paradigm +
-  - Programm *
-  - Programming paradigm +
-  - Programming language *
+  - Paradigm 
+  - Programm ~
+  - Programming paradigm 
+  - Programming language 
   - Contract
-  - Module +
-  - Library *
-  - Package +
+  - Module 
+  - Library 
+  - Package 
   - Component
   - Framework ~
   - Platform
-  - Source code *
+  - Source code ~
   - Object code
-  - Machine code +
+  - Machine code ~
   - Microcode
   - Software engineering +
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse +
+  - Code reuse ~
   - Defensive programming
-  - Don't repeat yourself (DRY) *
+  - Don't repeat yourself (DRY) 
   - KISS principle
 - Syntax and concepts
   - Value !
-  - Identifier !
+  - Identifier ~
   - Variable !
   - Constant !
   - Scalar !
-  - Literal !
-  - Expression !
+  - Literal 
+  - Expression ~
   - Heap
   - Function !
   - Procedure
-  - Method !
-  - Class !
-  - Prototype ~
-  - Event *
+  - Method 
+  - Class ~
+  - Prototype 
+  - Event 
   - Type
   - Flag
   - Lexical scope
-  - Code block !
+  - Code block +
   - Conditions
-  - Loops !
+  - Loops +
   - Assignment
   - Regular expression
   - Interface !
   - Namespaces !
-  - Call stack ~
-  - Naming conventions !
-  - Coding conventions !
-  - Camel case !
-  - Snake case !
-  - Kebab case ~
+  - Call stack 
+  - Naming conventions 
+  - Coding conventions 
+  - Camel case 
+  - Snake case 
+  - Kebab case 
   - Trailing commas
-  - Return early ~
-  - Fail-fast ~
+  - Return early 
+  - Fail-fast 
 - Types
   - Primitive types
   - Reference types
@@ -94,42 +94,42 @@
   - Recursion
   - Tail call optimisation
   - Callback
-  - Listener +
+  - Listener 
   - Composition
   - Pipe
   - Memoize
   - Wrapper ~
   - Functor
-  - Monad ~
-  - Monoid ~
+  - Monad 
+  - Monoid 
   - Generator
   - Coroutine
 - Data structures
-  - Array !
+  - Array +
   - Structure +
   - Record
   - Enum
   - Instance
-  - Object !
-  - Collection !
-  - Set +
-  - Hash table !
-  - Linked list *
+  - Object 
+  - Collection 
+  - Set 
+  - Hash table 
+  - Linked list 
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
-  - Stack +
+  - Stack 
   - Deque
-  - Tree +
-  - Graph +
-  - Iterator *
+  - Tree ~
+  - Graph 
+  - Iterator 
   - Mutable state
   - Immutable state
-  - Serialization +
-  - String parsing *
+  - Serialization 
+  - String parsing 
   - JSON +
-  - JSON5 +
+  - JSON5 
   - YAML
 - Networking
   - DNS ~
@@ -159,16 +159,16 @@
   - Containerization
   - Debugger *
   - Tracing
-  - Garbage collection ~
-  - Refactoring *
-  - Code review +
-  - Exception *
+  - Garbage collection 
+  - Refactoring ~
+  - Code review ~
+  - Exception 
   - Unittesting
   - git *
   - Github *
   - Docker ~
   - Kubernetes
-  - GCC ~
+  - GCC 
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -202,8 +202,8 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode +
-  - V8 +
+  - Bytecode ~
+  - V8 
   - VJM
   - CLR
   - Mono
