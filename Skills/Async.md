@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop 
+  - `try..catch` 
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -25,13 +25,13 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 
+  - Async/await 
   - Future
   - Deferred
   - Sync generator
   - Async Generator
-  - Async Iterator
+  - Async Iterator 
   - Event
   - Coroutine
   - Goroutine
