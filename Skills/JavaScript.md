@@ -1,33 +1,33 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `Object` +
+  - `Function` + 
+  - `Boolean` +
+  - `Number` +
+  - `BigInt` +
+  - `String` +
+  - `Symbol` +
+  - `Infinity` +
+  - `NaN` +
+  - `undefined` +
+  - `null` +
+  - `this` +
+  - `instanceof` +
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  - `typeof` +
+  - Destructuring  ~
+  - Generators +
+  - Iterators +
+  - Async generator ~
+  - Async iterator ~
+  - Chaining  
+  - Optional chaining 
   - IIFE
   - Async IIFE
   - `global`
-  - `globalThis`
+  - `globalThis` ~
   - `window`
   - Getters and setters
   - `__proto__`
@@ -37,15 +37,15 @@
   - Logical Assignment
   - Bitwise operators
   - Ternary operator
-  - `void`
+  - `void` +
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
-  - `in`
-  - `super`
+  - `delete` +
+  - `in` +
+  - `super` 
   - `eval`
   - `static`
   - `Number.parseInt`
@@ -59,42 +59,42 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `if` +
+  - `while` +
+  - `do..while` +
+  - `for` +
+  - `for..in` +
+  - `for..of` +
+  - `for await` +
+  - `throw` +
+  - `break` +
+  - `continue` +
+  - `import` +
+  - `export` +
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `try..catch` +
+  - `switch` +
+  - `class` +
+  - `extends` +
+  - `with` +
+  - `new` +
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
+  - Arrow function +
+  - Async function ~
+  - Function declaration ~
   - Function expression
-  - Default parameters
+  - Default parameters 
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
-  - `WeakMap`
-  - `WeakSet`
+  - `Array` +
+  - `Map` +
+  - `Set` +
+  - `WeakMap` 
+  - `WeakSet` 
   - Typed arrays
   - Mixins
   - `Object.assign`
@@ -102,9 +102,9 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` +
   - `Reflect`
-  - `Error`
+  - `Error` +
   - `Atomics`
   - `JSON`
   - `WeakRef`
@@ -116,7 +116,7 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm +
   - prettier
   - MDN
   - TC39

@@ -11,7 +11,7 @@
   - SOLID
   - CQS
   - Modularity
-  - Subsystems
+  - Subsystems ~
   - Directories
   - Leaking abstractions
   - Multiparadigm code

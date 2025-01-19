@@ -1,30 +1,30 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
+  - Event loop +
+  - `try..catch` +
+  - Non-blocking 
+  - Async I/O 
+  - Thread pool ~
+  - Pattern Reactor ~
+  - CAS operations 
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
+  - libuv 
   - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Dead locks ~
+  - Live locks ~
+  - Concurrent programming 
+  - Parallel programming ~
   - Actor Model
   - Thread
-  - Process
+  - Process ~
 - Async contracts
-  - Callbacks
+  - Callbacks ~
   - Callback-last-error-first
-  - Thenable
+  - Thenable 
   - Promise
   - Async/await
   - Future
@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event ~
   - Coroutine
   - Goroutine
   - Signal
