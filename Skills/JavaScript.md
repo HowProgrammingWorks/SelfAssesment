@@ -5,7 +5,7 @@
   - `Function`h
   - `Boolean`u
   - `Number`h
-  - `BigInt` 
+  - `BigInt`
   - `String`
   - `Symbol`
   - `Infinity`
