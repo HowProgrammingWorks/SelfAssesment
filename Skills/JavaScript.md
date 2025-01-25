@@ -1,11 +1,11 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
+  - `Object`u
+  - `Function`h
+  - `Boolean`u
+  - `Number`h
+  - `BigInt` 
   - `String`
   - `Symbol`
   - `Infinity`
