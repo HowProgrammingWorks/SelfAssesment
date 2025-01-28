@@ -1,58 +1,58 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
-  - Inversion of Control
-  - Dependency Injection
+  - Separation of concerns u
+  - Inversion of Control u
+  - Dependency Injection u
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
-  - GRASP
-  - SOLID
-  - CQS
-  - Modularity
+  - GRASP e
+  - SOLID e
+  - CQS e
+  - Modularity u
   - Subsystems
   - Directories
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code u
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage u
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability e
+  - Quality e
   - Availability
-  - Flexibility
+  - Flexibility e
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer u
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Inversion of control (IoC) 
+  - Dependency injection (DI) 
+  - Clean architecture e
+  - Domain-driven design (DDD) 
+  - Pub/sub e
+  - Message brocker e
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
+  - CQRS e
+  - Event sourcing e
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
   - UML
-  - Work breakdown structure
-  - Budget estimation
+  - Work breakdown structure u
+  - Budget estimation u
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -62,28 +62,28 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless e
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
+  - Solution visions u
+  - Solution capabilities u
+  - System design u
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds e
   - BPMN
   - Low-code
   - No-code
   - Metric
   - Metric abuse
-  - ACID
+  - ACID e
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT) u
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -93,7 +93,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices e
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -102,4 +102,4 @@
   - OLTP
   - Conways Law
   - Quality assurance
-  - Engineering Hygiene
+  - Engineering Hygiene e
