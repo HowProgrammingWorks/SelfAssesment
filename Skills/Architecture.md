@@ -1,58 +1,58 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns u
-  - Inversion of Control u
-  - Dependency Injection u
+  - Separation of concerns: 🖐️ used
+  - Inversion of Control: 🖐️ used
+  - Dependency Injection: 🖐️ used
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
-  - GRASP e
-  - SOLID e
-  - CQS e
-  - Modularity u
+  - GRASP: 🙋 explained
+  - SOLID: 🙋 explained
+  - CQS: 🙋 explained
+  - Modularity: 🖐️ used
   - Subsystems
   - Directories
   - Leaking abstractions
-  - Multiparadigm code u
+  - Multiparadigm code: 🖐️ used
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage u
+  - Code coverage: 🖐️ used
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability e
-  - Quality e
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
   - Availability
-  - Flexibility e
+  - Flexibility: 🙋 explained
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer u
+  - Isolation between layer: 🖐️ used
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC) 
-  - Dependency injection (DI) 
-  - Clean architecture e
-  - Domain-driven design (DDD) 
-  - Pub/sub e
-  - Message brocker e
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
+  - Clean architecture: 🙋 explained
+  - Domain-driven design (DDD)
+  - Pub/sub: 🙋 explained
+  - Message brocker: 🙋 explained
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS e
-  - Event sourcing e
+  - CQRS: 🙋 explained
+  - Event sourcing: 🙋 explained
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
   - UML
-  - Work breakdown structure u
-  - Budget estimation u
+  - Work breakdown structure: 🖐️ used
+  - Budget estimation: 🖐️ used
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -62,28 +62,28 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless e
+  - Serverless: 🙋 explained
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
-  - Solution visions u
-  - Solution capabilities u
-  - System design u
+  - Solution visions: 🖐️ used
+  - Solution capabilities: 🖐️ used
+  - System design: 🖐️ used
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds e
+  - Clouds: 🙋 explained
   - BPMN
   - Low-code
   - No-code
   - Metric
   - Metric abuse
-  - ACID e
+  - ACID: 🙋 explained
   - CAP theorem
-  - Single source of truth (SSOT) u
+  - Single source of truth (SSOT): 🖐️ used
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
@@ -93,7 +93,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices e
+  - Microservices: 🙋 explained
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -102,4 +102,4 @@
   - OLTP
   - Conways Law
   - Quality assurance
-  - Engineering Hygiene e
+  - Engineering Hygiene: 🙋 explained
