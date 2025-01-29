@@ -1,37 +1,37 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
-- Syntax and concepts
+  - Model *
+  - Modeling *
+  - Subject domain *
+  - Algorithm *
+  - Syntax *
+  - Semantics *
+  - Abstraction *
+  - Paradigm *
+  - Programm *
+  - Programming paradigm *
+  - Programming language *
+  - Contract *
+  - Module *
+  - Library *
+  - Package *
+  - Component *
+  - Framework *
+  - Platform *
+  - Source code *
+  - Object code *
+  - Machine code *
+  - Microcode *
+  - Software engineering *
+  - Decomposition *
+  - Control flow *
+  - Data flow *
+  - Code reuse *
+  - Defensive programming *
+  - Don't repeat yourself (DRY) *
+  - KISS principle *
+- Syntax and concepts *
   - Value
   - Identifier
   - Variable
@@ -65,7 +65,7 @@
   - Trailing commas
   - Return early
   - Fail-fast
-- Types
+- Types *
   - Primitive types
   - Reference types
   - Type systems
@@ -80,7 +80,7 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
+- Functions *
   - Signature
   - Argument
   - Parameter
@@ -104,7 +104,7 @@
   - Monoid
   - Generator
   - Coroutine
-- Data structures
+- Data structures *
   - Array
   - Structure
   - Record
@@ -131,7 +131,7 @@
   - JSON
   - JSON5
   - YAML
-- Networking
+- Networking +
   - DNS
   - CDN
   - CORS
@@ -141,7 +141,7 @@
   - URL
   - URN
   - URI
-- Process and tools
+- Process and tools +
   - Compiler
   - Just-in-time compilation
   - Ahead-of-time compilation
@@ -170,7 +170,7 @@
   - Kubernetes
   - GCC
   - LLVM
-- Antipatterns
+- Antipatterns ~
   - Magic numbers
   - Hard code
   - Soft code
@@ -201,13 +201,13 @@
   - Feature envy
   - Monkey patch
   - Yo-yo problem
-- Runtimes and virtual machines
+- Runtimes and virtual machines +
   - Bytecode
   - V8
   - VJM
   - CLR
   - Mono
-- Operating systems
+- Operating systems +
   - Interrupts
   - Drivers
   - Kernel
@@ -221,7 +221,7 @@
   - Windows
   - Real-time OS
   - Embedded OS
-- Standards
+- Standards ~
   - ASCII
   - Escape sequence
   - RFC
