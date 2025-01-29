@@ -1,64 +1,64 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Model: *
+  - Modeling: *
+  - Subject domain: *
+  - Algorithm: *
+  - Syntax: *
+  - Semantics: *
+  - Abstraction: *
+  - Paradigm: *
+  - Programm: *
+  - Programming paradigm: *
+  - Programming language: *
+  - Contract: *
+  - Module: *
+  - Library: *
+  - Package: *
+  - Component: *
+  - Framework: *
+  - Platform: *
+  - Source code: *
+  - Object code: *
+  - Machine code: *
+  - Microcode: 
+  - Software engineering: *
+  - Decomposition: *
+  - Control flow: +
+  - Data flow: *
+  - Code reuse: *
+  - Defensive programming: +
+  - Don't repeat yourself (DRY): *
+  - KISS principle: *
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
+  - Value: *
+  - Identifier : *
+  - Variable: *
+  - Constant: *
+  - Scalar: +
+  - Literal: *
+  - Expression: *
+  - Heap: ~
+  - Function: *
+  - Procedure: +
+  - Method: *
+  - Class: *
+  - Prototype: +
+  - Event: *
+  - Type: *
+  - Flag: *
+  - Lexical scope: *
+  - Code block: *
+  - Conditions: *
+  - Loops: ~
+  - Assignment: 
+  - Regular expression: *
+  - Interface: *
+  - Namespaces: *
+  - Call stack: *
+  - Naming conventions: *
+  - Coding conventions: 
   - Camel case
   - Snake case
   - Kebab case
@@ -66,83 +66,83 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
+  - Primitive types: *
+  - Reference types: *
+  - Type systems: 
+  - Strong typing: *
+  - Weak typing: *
+  - Duck typing: ~
+  - Static typing: *
+  - Dynamic typing: *
+  - Nominal typing: ~
+  - Structural typing: +
+  - Explicit typing: *
+  - Type inference: *
+  - Covariance:
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
+  - Signature: *
+  - Argument: *
+  - Parameter: *
+  - Pure function: *
+  - Lambda expression: *
+  - Side effects: 
+  - Closure: +
+  - Partial application: ~
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: *
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Callback: +
+  - Listener: +
+  - Composition: +
+  - Pipe: +
   - Memoize
-  - Wrapper
-  - Functor
+  - Wrapper: +
+  - Functor: *
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Array: *
+  - Structure: +
+  - Record: *
+  - Enum: *
+  - Instance: *
+  - Object: *
+  - Collection: *
+  - Set: +
+  - Hash table: +
+  - Linked list: ^
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Queue: ^
+  - Stack: ^
+  - Deque: +
+  - Tree: !
+  - Graph: ~
+  - Iterator: +
+  - Mutable state: +
+  - Immutable state: + 
+  - Serialization: +
+  - String parsing: *
+  - JSON: *
   - JSON5
-  - YAML
+  - YAML: *
 - Networking
-  - DNS
+  - DNS: +
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - CORS: *
+  - IPv4: ~
+  - IPv6: ~
   - NAT
-  - URL
+  - URL: +
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: +
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,21 +152,21 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: +
+  - Virtual machine: +
   - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
-  - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Stack-based VM: 
+  - Containerization: +
+  - Debugger: +
+  - Tracing: +
+  - Garbage collection: +
+  - Refactoring: *
+  - Code review: *
+  - Exception: *
+  - Unittesting: *
+  - git: *
+  - Github: *
+  - Docker: *
   - Kubernetes
   - GCC
   - LLVM
@@ -202,8 +202,8 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode: +
+  - V8: +
   - VJM
   - CLR
   - Mono
@@ -214,26 +214,26 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux: ~
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: *
+  - Windows: *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: +
   - Escape sequence
   - RFC
   - IETF
   - IANA
-  - IEEE
-  - Base64
+  - IEEE: ~
+  - Base64: +
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: +
   - W3C
   - ODMG
